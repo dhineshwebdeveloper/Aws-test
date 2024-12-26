@@ -4,7 +4,7 @@ import InitAnimations from "@/components/layout/InitAnimations";
 
 export const metadata: Metadata = {
   title: "Amohaa - Web hosting & WHMCS React NextJs Template",
-  description: "Web hosting & WHMCS React NextJs Template",
+  description: "Web  & WHMCS React NextJs Template",
   keywords: [
     "clean",
     "cloud hosting",
