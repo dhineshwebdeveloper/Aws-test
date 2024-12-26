@@ -1,0 +1,25 @@
+:root {
+  --body: #fff;
+  --black: #000;
+  --white: #fff;
+  --theme: #384bff;
+  --theme2: #ffa31a;
+  --header: #0f0d1d;
+  --text: #445375;
+  --border: #d4dcff;
+  --border-2: #d4dced;
+  --bg: #f3f7fb;
+  --box-shadow: 0px 4px 25px 0px rgba(0, 0, 0, 0.06);
+}
+
+// Theme Color - Defualt Colors
+$black: var(--black);
+$white: var(--white);
+$theme-color: var(--theme);
+$theme-color-2: var(--theme2);
+$text-color: var(--text);
+$header-color: var(--header);
+$border-color: var(--border);
+$border-color-2: var(--border-2);
+$bg-color: var(--bg);
+$shadow: var(--box-shadow);
